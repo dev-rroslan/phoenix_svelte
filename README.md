@@ -16,3 +16,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Configure using Svelte 0.9.0
+  * edit tailwind.config.js
+  * edit home.html.heex
+  * mkdir svelte under js folder
+  * create Greeter.svelte with tailwind
