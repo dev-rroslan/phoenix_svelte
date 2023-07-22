@@ -10,7 +10,8 @@ module.exports = {
     "./js/**/*.js",
     "../lib/*_web.ex",
     "../lib/*_web/**/*.*ex",
-    "./svelte/**/*.svelte"
+    //"./svelte/**/*.svelte",
+    "./js/svelte/**/*.svelte",
   ],
   theme: {
     extend: {
