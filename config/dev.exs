@@ -5,7 +5,7 @@ config :phx_svelte, PhxSvelte.Repo,
   username: "postgres",
   password: "postgres",
   hostname: "localhost",
-  database: "phx_svelte_dev",
+  database: "phoenix_svelte_dev",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
